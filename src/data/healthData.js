@@ -5,7 +5,7 @@ export const healthData = [
     date: 'Date: 26 Oct 2021',
     statusColor: 'bg-red-500',
     statusLevel: 60,
-    icon: 'src/assets/icons/lungs.png', 
+    icon: '/icons/lungs.png', 
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const healthData = [
     date: 'Date: 26 Oct 2021',
     statusColor: 'bg-green-400',
     statusLevel: 70,
-    icon: 'src/assets/icons/teeth.png',
+    icon: '/icons/teeth.png',
   },
   {
     id: 3,
@@ -21,6 +21,6 @@ export const healthData = [
     date: 'Date: 26 Oct 2021',
     statusColor: 'bg-red-400',
     statusLevel: 80,
-    icon: 'src/assets/icons/bone.png',
+    icon: '/icons/bone.png',
   },
 ];

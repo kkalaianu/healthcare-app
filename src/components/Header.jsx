@@ -26,7 +26,7 @@ function Header() {
         {/* Right: User + Avatar + Plus Button */}
         <div className="flex items-center gap-3">
           <img
-            src="./src/assets/icons/user.png"
+            src="./icons/user.png"
             alt="User"
             className="h-8 w-8 rounded-full object-cover cursor-pointer"
           />
