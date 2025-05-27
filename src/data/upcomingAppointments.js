@@ -1,4 +1,4 @@
-// src/data/upcomingAppointments.js
+
 const upcomingAppointments = [
   {
     day: "On Thursday",

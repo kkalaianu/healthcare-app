@@ -7,8 +7,7 @@ function Header() {
 
         {/* Left: Search Bar and Bell Icon */}
         <div className="w-full sm:flex-1 flex flex-col sm:flex-row items-center gap-4">
-          {/* Search Bar */}
-          <div className="relative w-full sm:max-w-md">
+         <div className="relative w-full sm:max-w-md">
             <span className="absolute inset-y-0 left-3 flex items-center text-gray-400">
               <Search className="w-5 h-5" />
             </span>

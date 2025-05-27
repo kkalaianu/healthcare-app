@@ -1,4 +1,4 @@
-// src/components/SimpleAppointmentCard.jsx
+
 import React from "react";
 
 const SimpleAppointmentCard = ({ title, time, icon }) => {
